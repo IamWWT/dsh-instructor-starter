@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+media/video/*.mp4
+*.srt.bak
